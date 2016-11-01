@@ -671,7 +671,7 @@ input[type="checkbox"]#form + label span:first-child {
     padding-right: 10px;
 }
 input[type="checkbox"]#form:checked + label span:first-child {
-    background: url("images/form.jpg") no-repeat;
+    background: url("../images/form.jpg") no-repeat;
     background-size: contain;
     display: inline-block;
     position: relative;
